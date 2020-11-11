@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: ./demo/libs/com.heytap.msp-push-2.1.0.aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/com.heytap.msp-push-2.1.0.aar/52420b024f48b9df23cef7bf4235e312/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/com.heytap.msp-push-2.1.0.aar/52420b024f48b9df23cef7bf4235e312/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/com.heytap.msp-push-2.1.0.aar/52420b024f48b9df23cef7bf4235e312/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

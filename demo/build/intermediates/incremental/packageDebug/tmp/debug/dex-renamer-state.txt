@@ -1,0 +1,13 @@
+#Wed Nov 11 15:06:44 CST 2020
+path.3=classes4.dex
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=D\:\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.2=D\:\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=D\:\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=D\:\\nim_demo\\demo\\build\\intermediates\\transforms\\dexMerger\\debug\\0

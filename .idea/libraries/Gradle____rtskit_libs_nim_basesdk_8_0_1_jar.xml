@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./rtskit/libs/nim-basesdk-8.0.1.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/rtskit/libs/nim-basesdk-8.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

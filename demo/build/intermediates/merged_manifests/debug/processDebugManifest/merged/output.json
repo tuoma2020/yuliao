@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":141,"versionName":"8.0.1","enabled":true,"outputFile":"demo-debug.apk","fullName":"debug","baseName":"debug"},"path":"AndroidManifest.xml","properties":{"packageId":"com.netease.nim.demo","split":"","minSdkVersion":"19"}}]

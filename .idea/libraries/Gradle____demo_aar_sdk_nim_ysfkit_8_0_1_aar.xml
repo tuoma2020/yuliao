@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: ./demo/aar-sdk/nim_ysfkit_8.0.1.aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nim_ysfkit_8.0.1.aar/f0ecf704fae38a27d84e9528767f14e3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nim_ysfkit_8.0.1.aar/f0ecf704fae38a27d84e9528767f14e3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nim_ysfkit_8.0.1.aar/f0ecf704fae38a27d84e9528767f14e3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/nim_ysfkit_8.0.1.aar/f0ecf704fae38a27d84e9528767f14e3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

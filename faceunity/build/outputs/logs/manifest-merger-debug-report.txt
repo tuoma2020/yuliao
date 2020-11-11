@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml:1:1-14:12
+	package
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:4:5-28
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:1:11-69
+application
+ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:6:5-12:19
+	android:supportsRtl
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:7:9-36
+	tools:replace
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml:10:9-44
+uses-sdk
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
+		ADDED from D:\nim_demo\faceunity\AndroidManifest.xml
+		INJECTED from D:\nim_demo\faceunity\AndroidManifest.xml
