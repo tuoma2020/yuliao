@@ -37,7 +37,7 @@
         android:layout_below="@id/team_head_image"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="15dp"
-        android:text="范冰冰粉丝群"
+        android:text="旭旭子粉丝群"
         android:textColor="@color/color_black_333333"
         android:textSize="17sp" />
 
@@ -64,7 +64,7 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:layout_marginTop="10dp"
-            android:text="289人"
+            android:text="999人"
             android:textColor="@color/color_grey_ababab"
             android:textSize="13sp" />
     </LinearLayout>

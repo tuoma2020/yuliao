@@ -2038,6 +2038,8 @@ drawable ic_capture_light_off
 drawable ic_capture_light_on
 drawable ic_capture_switch
 drawable ic_emoji_empty
+drawable ic_launcher_my
+drawable ic_launcher_round_my
 drawable ic_logo
 drawable ic_menu_selected
 drawable ic_mtrl_chip_checked_black
@@ -2475,6 +2477,7 @@ drawable room_cover_58
 drawable room_cover_64
 drawable room_cover_72
 drawable rp_open_holder_bg
+drawable shuidi
 drawable skin_global_bg
 drawable splash_bg
 drawable stat_sys_third_app_notify

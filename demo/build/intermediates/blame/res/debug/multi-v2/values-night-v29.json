@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\nim_demo\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v29\\values-night-v29.xml",
+            "outputFile": "D:\\GitHub\\yuliao\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v29\\values-night-v29.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\ui-4.0.4.300.aar\\4c7d2b4cbc9e2435d3860913f0684eaf\\res\\values-night-v29\\values-night-v29.xml",
+                    "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\ui-4.0.4.300.aar\\090a468f0446c5ba74db910f09a0c20c\\res\\values-night-v29\\values-night-v29.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

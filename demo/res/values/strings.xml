@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">云信 Demo</string>
+    <string name="app_name">YuRyo Demo</string>
     <string name="empty"></string>
     <string name="main_tab_session">会话</string>
     <string name="main_tab_contact">通讯录</string>
@@ -56,7 +56,7 @@
     <string name="nim_status_unlogin">未登录</string>
     <string name="nim_status_connecting">连接中...</string>
     <string name="nim_status_logining">登录中...</string>
-    <string name="copyright">Copyright ©1997-2020 网易公司版权所有</string>
+    <string name="copyright">Copyright 西北大学 Tuoma团队</string>
     <string name="user_not_exsit">该用户不存在</string>
     <string name="user_tips">请检查你输入的帐号是否正确</string>
     <string name="edit">编辑</string>
@@ -209,9 +209,9 @@
     <!-- 多端登录 -->
     <string name="multiport_manager">多端登录管理</string>
     <string name="multiport_logout">下线</string>
-    <string name="computer_version">云信电脑版</string>
-    <string name="web_version">云信网页版</string>
-    <string name="mobile_version">云信移动版</string>
+    <string name="computer_version">电脑版</string>
+    <string name="web_version">网页版</string>
+    <string name="mobile_version">移动版</string>
     <string name="multiport_logging">正在使用</string>
     <string name="kickout_notify">下线通知</string>
     <string name="kickout_content">你的帐号被%1$s踢出下线，请确定帐号信息安全</string>
@@ -257,13 +257,13 @@
     <string name="js_bridge_demonstration">Js Bridge演示</string>
 
     <!--机器人-->
-    <string name="nim_robot_title">云小信机器人</string>
+    <string name="nim_robot_title">机器人</string>
     <string name="robot_start_chat">开始对话</string>
 
     <!-- 已读回执 -->
     <string name="send_ack_msg">发送已读回执消息</string>
     <string name="ack_msg_info">消息已读详情</string>
-    <string name="ack_msg_tip">已读回执能力支持文本、图片、音频、视频、文件、自定义等消息类型。此处仅以文本消息作为演示，开发者可以根据具体业务场景进行功能设计。</string>
+    <string name="ack_msg_tip"> </string>
     <string name="down_time_enable_notification">免打扰期间显示通知</string>
     <string name="independent_mode_error">独立AppKey模式，appKey不能为空</string>
     <string name="appkey_cannot_empty">appKey不能为空</string>

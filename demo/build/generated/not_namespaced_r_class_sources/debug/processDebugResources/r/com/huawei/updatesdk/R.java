@@ -31,12 +31,12 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int upsdk_btn_emphasis_normal_layer = 0x7f0802ee;
-        public static final int upsdk_cancel_bg = 0x7f0802ef;
-        public static final int upsdk_cancel_normal = 0x7f0802f0;
-        public static final int upsdk_cancel_pressed_bg = 0x7f0802f1;
-        public static final int upsdk_third_download_bg = 0x7f0802f2;
-        public static final int upsdk_update_all_button = 0x7f0802f3;
+        public static final int upsdk_btn_emphasis_normal_layer = 0x7f0802f1;
+        public static final int upsdk_cancel_bg = 0x7f0802f2;
+        public static final int upsdk_cancel_normal = 0x7f0802f3;
+        public static final int upsdk_cancel_pressed_bg = 0x7f0802f4;
+        public static final int upsdk_third_download_bg = 0x7f0802f5;
+        public static final int upsdk_update_all_button = 0x7f0802f6;
     }
     public static final class id {
         private id() {}

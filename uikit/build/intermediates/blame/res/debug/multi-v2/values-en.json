@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\nim_demo\\uikit\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+            "outputFile": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\nim_demo\\uikit\\res\\values-en\\strings-ptr.xml",
+                    "source": "D:\\GitHub\\yuliao\\uikit\\res\\values-en\\strings-ptr.xml",
                     "from": {
                         "startLines": "3,2,1",
                         "startColumns": "4,4,4",
@@ -23,10 +23,10 @@
             ]
         },
         {
-            "outputFile": "D:\\nim_demo\\uikit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\nim_demo\\uikit\\res\\values-en\\strings-ptr.xml",
+                    "source": "D:\\GitHub\\yuliao\\uikit\\res\\values-en\\strings-ptr.xml",
                     "from": {
                         "startLines": "3,2,1",
                         "startColumns": "4,4,4",

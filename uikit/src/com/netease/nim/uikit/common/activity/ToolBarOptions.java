@@ -1,8 +1,6 @@
 package com.netease.nim.uikit.common.activity;
 
-/**
- * Created by hzxuwen on 2016/6/16.
- */
+
 public class ToolBarOptions {
     /**
      * toolbar的title资源id

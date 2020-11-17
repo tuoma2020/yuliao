@@ -12,7 +12,7 @@ public final class R {
     public static final class drawable {
         private drawable() {}
 
-        public static final int stat_sys_third_app_notify = 0x7f0802c7;
+        public static final int stat_sys_third_app_notify = 0x7f0802ca;
     }
     public static final class id {
         private id() {}
