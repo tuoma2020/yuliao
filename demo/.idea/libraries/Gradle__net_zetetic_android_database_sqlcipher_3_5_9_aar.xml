@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.9.aar/62733ad812783c8378a4f3ee551cd796/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.9.aar/62733ad812783c8378a4f3ee551cd796/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.9.aar/9ef418be64e97ca74a2db803af6be241/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.9.aar/9ef418be64e97ca74a2db803af6be241/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.9.aar/9ef418be64e97ca74a2db803af6be241/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

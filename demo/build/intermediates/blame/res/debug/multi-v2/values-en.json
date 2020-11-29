@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GitHub\\yuliao\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\yuliao\\yuliao2\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\GitHub\\yuliao\\demo\\res\\values-en\\strings.xml",
+                    "source": "D:\\yuliao\\yuliao2\\demo\\res\\values-en\\strings.xml",
                     "from": {
-                        "startLines": "2,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startColumns": "4,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "startOffsets": "55,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endColumns": "42,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
-                        "endOffsets": "93,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                        "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "57,101,195,290,1014,654,373,465,570,741,826,921",
+                        "endColumns": "42,92,93,81,88,85,90,103,82,83,93,91",
+                        "endOffsets": "95,189,284,367,1098,735,459,564,648,820,915,1008"
                     },
                     "to": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
@@ -21,11 +21,13 @@
                     }
                 },
                 {
-                    "source": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
+                    "source": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
                     "from": {
-                        "startLines": "-1,-1,-1",
-                        "startColumns": "-1,-1,-1",
-                        "startOffsets": "-1,-1,-1"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,105,162",
+                        "endColumns": "49,56,46",
+                        "endOffsets": "100,157,204"
                     },
                     "to": {
                         "startLines": "3,4,5",

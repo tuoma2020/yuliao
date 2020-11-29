@@ -1,37 +1,37 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:1:1-14:12
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:1:1-14:12
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:1:1-14:12
+ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:1:1-14:12
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:1:1-14:12
 	package
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:4:5-28
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:4:5-28
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
 	xmlns:tools
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:2:5-51
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:2:5-51
 	xmlns:android
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:1:11-69
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:1:11-69
 application
-ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:6:5-12:19
+ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:6:5-12:19
 	android:supportsRtl
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:9:9-35
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:8:9-41
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:7:9-36
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:7:9-36
 	tools:replace
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml:10:9-44
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml:10:9-44
 uses-sdk
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-		ADDED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
-		INJECTED from D:\GitHub\yuliao\faceunity\AndroidManifest.xml
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+		ADDED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml
+		INJECTED from D:\yuliao\yuliao2\faceunity\AndroidManifest.xml

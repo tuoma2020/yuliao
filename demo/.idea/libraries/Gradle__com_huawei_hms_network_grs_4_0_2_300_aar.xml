@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-grs-4.0.2.300.aar/93632d7faa93fe139df811ea97a518ec/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-grs-4.0.2.300.aar/93632d7faa93fe139df811ea97a518ec/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-grs-4.0.2.300.aar/414d34853d5bf12223a4965cc93b4eb3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-grs-4.0.2.300.aar/414d34853d5bf12223a4965cc93b4eb3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/network-grs-4.0.2.300.aar/414d34853d5bf12223a4965cc93b4eb3/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

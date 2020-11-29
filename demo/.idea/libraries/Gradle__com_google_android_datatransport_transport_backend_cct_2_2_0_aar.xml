@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transport-backend-cct-2.2.0.aar/2d248a2fea64a785dea2c22804f1c39f/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transport-backend-cct-2.2.0.aar/2d248a2fea64a785dea2c22804f1c39f/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transport-backend-cct-2.2.0.aar/7bf9111e8b9c3730b2445592990e0401/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transport-backend-cct-2.2.0.aar/7bf9111e8b9c3730b2445592990e0401/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/transport-backend-cct-2.2.0.aar/7bf9111e8b9c3730b2445592990e0401/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-backend-cct/2.2.0/f3ef3a5b401818d979e05ca4fa1f0eb06e69eeb0/transport-backend-cct-2.2.0-javadoc.jar!/" />

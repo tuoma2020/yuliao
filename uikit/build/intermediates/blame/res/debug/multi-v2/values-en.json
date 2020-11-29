@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\GitHub\\yuliao\\uikit\\res\\values-en\\strings-ptr.xml",
+                    "source": "D:\\yuliao\\yuliao2\\uikit\\res\\values-en\\strings-ptr.xml",
                     "from": {
                         "startLines": "3,2,1",
                         "startColumns": "4,4,4",
-                        "startOffsets": "120,63,16",
+                        "startOffsets": "123,65,17",
                         "endColumns": "49,56,46",
-                        "endOffsets": "165,115,58"
+                        "endOffsets": "168,117,59"
                     },
                     "to": {
                         "startLines": "2,3,4",
@@ -23,16 +23,16 @@
             ]
         },
         {
-            "outputFile": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\values-en\\values-en.xml",
+            "outputFile": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\GitHub\\yuliao\\uikit\\res\\values-en\\strings-ptr.xml",
+                    "source": "D:\\yuliao\\yuliao2\\uikit\\res\\values-en\\strings-ptr.xml",
                     "from": {
                         "startLines": "3,2,1",
                         "startColumns": "4,4,4",
-                        "startOffsets": "120,63,16",
+                        "startOffsets": "123,65,17",
                         "endColumns": "49,56,46",
-                        "endOffsets": "165,115,58"
+                        "endOffsets": "168,117,59"
                     },
                     "to": {
                         "startLines": "2,3,4",

@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-glide-transformations-3.0.1.aar/69c7197639fdd48e16d8ff9d766c984a/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-glide-transformations-3.0.1.aar/69c7197639fdd48e16d8ff9d766c984a/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-glide-transformations-3.0.1.aar/414399aa81653bd1e279ee2aa83278e7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-glide-transformations-3.0.1.aar/414399aa81653bd1e279ee2aa83278e7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-glide-transformations-3.0.1.aar/414399aa81653bd1e279ee2aa83278e7/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

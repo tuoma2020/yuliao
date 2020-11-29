@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-2.3.0.aar/4c0c8dcd1f446caa83c06c65b065b7ea/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-2.3.0.aar/4c0c8dcd1f446caa83c06c65b065b7ea/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-2.3.0.aar/4dc91b12975ff26481ca160e6a071319/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-2.3.0.aar/4dc91b12975ff26481ca160e6a071319/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/PhotoView-2.3.0.aar/4dc91b12975ff26481ca160e6a071319/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

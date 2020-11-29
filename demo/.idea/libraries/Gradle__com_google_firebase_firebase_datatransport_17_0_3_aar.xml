@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-datatransport-17.0.3.aar/d2993c1fd4db94c6a2e119395c18cf1d/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-datatransport-17.0.3.aar/d2993c1fd4db94c6a2e119395c18cf1d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-datatransport-17.0.3.aar/d0eb3bf86a3f2e03e0d4ad454ed18ea9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-datatransport-17.0.3.aar/d0eb3bf86a3f2e03e0d4ad454ed18ea9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/firebase-datatransport-17.0.3.aar/d0eb3bf86a3f2e03e0d4ad454ed18ea9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/08a41dab1a193c0fbe14d084cf43a626/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/08a41dab1a193c0fbe14d084cf43a626/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/255d76c6bd08ca13a661ee2a3aebcabe/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/255d76c6bd08ca13a661ee2a3aebcabe/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/255d76c6bd08ca13a661ee2a3aebcabe/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

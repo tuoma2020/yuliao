@@ -1,42 +1,42 @@
 [
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_default.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_edittext.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_spinner.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_btn_colored_text_material.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\298ef3722f01f32626aca206eae4b9f2\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\color-v23\\abc_tint_switch_track.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "D:\\GitHub\\yuliao\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\eabcab084f552dc3091c13397928fafe\\res\\color-v23\\design_tint_password_toggle.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\color-v23\\abc_btn_colored_text_material.xml"
     }
 ]

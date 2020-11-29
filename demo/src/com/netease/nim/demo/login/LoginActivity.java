@@ -276,7 +276,7 @@ public class LoginActivity extends UI implements OnKeyListener {
     };
 
     private void updateRightTopBtn(TextView rightTopBtn, boolean isEnable) {
-        rightTopBtn.setText(R.string.done);
+        rightTopBtn.setText("登陆");
         rightTopBtn.setBackgroundResource(R.drawable.g_white_btn_selector);
         rightTopBtn.setEnabled(isEnable);
         rightTopBtn.setTextColor(getResources().getColor(R.color.color_blue_0888ff));

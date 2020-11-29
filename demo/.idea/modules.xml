@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../avchatkit/avchatkit.iml" filepath="$PROJECT_DIR$/../avchatkit/avchatkit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../faceunity/faceunity.iml" filepath="$PROJECT_DIR$/../faceunity/faceunity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../jrmfRpWalletlib/jrmfRpWalletlib.iml" filepath="$PROJECT_DIR$/../jrmfRpWalletlib/jrmfRpWalletlib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../rtskit/rtskit.iml" filepath="$PROJECT_DIR$/../rtskit/rtskit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../uikit/uikit.iml" filepath="$PROJECT_DIR$/../uikit/uikit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../yuliao.iml" filepath="$PROJECT_DIR$/../yuliao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-342346276/yuliao2.iml" filepath="$PROJECT_DIR$/.idea/modules/-342346276/yuliao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1335475658/yuliao2.avchatkit.iml" filepath="$PROJECT_DIR$/.idea/modules/-1335475658/yuliao2.avchatkit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yuliao2.demo.iml" filepath="$PROJECT_DIR$/.idea/modules/yuliao2.demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/205277893/yuliao2.faceunity.iml" filepath="$PROJECT_DIR$/.idea/modules/205277893/yuliao2.faceunity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1882398278/yuliao2.jrmfRpWalletlib.iml" filepath="$PROJECT_DIR$/.idea/modules/-1882398278/yuliao2.jrmfRpWalletlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1130717608/yuliao2.rtskit.iml" filepath="$PROJECT_DIR$/.idea/modules/-1130717608/yuliao2.rtskit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1351433679/yuliao2.uikit.iml" filepath="$PROJECT_DIR$/.idea/modules/1351433679/yuliao2.uikit.iml" />
     </modules>
   </component>
 </project>

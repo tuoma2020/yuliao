@@ -3,6 +3,9 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agconnect-core-1.0.0.300.aar/dd96bde735dd1f657fe0e5209095f6c3/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agconnect-core-1.0.0.300.aar/dd96bde735dd1f657fe0e5209095f6c3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agconnect-core-1.0.0.300.aar/4ad4061e6ed7702618972fd9bdc977ed/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agconnect-core-1.0.0.300.aar/4ad4061e6ed7702618972fd9bdc977ed/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/agconnect-core-1.0.0.300.aar/4ad4061e6ed7702618972fd9bdc977ed/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./libs/nrtc-sdk.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/nrtc-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
