@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Dec 01 21:59:31 CST 2020
+#Tue Dec 01 23:12:35 CST 2020
 20.base=D\:\\yuliao\\yuliao2\\demo\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 143.base=D\:\\yuliao\\yuliao2\\demo\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
 237.path=emoji/default/emoji_23.png
