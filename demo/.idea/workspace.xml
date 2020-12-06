@@ -35,17 +35,40 @@
       <change beforePath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/netease/nim/demo/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/build/generated/source/buildConfig/debug/com/netease/nim/demo/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/blame/res/debug/multi-v2/values.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/login_activity.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/f7kiRM6YwybRrLALIOzmHczpGd8=" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/f7kiRM6YwybRrLALIOzmHczpGd8=" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/BuildConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/BuildConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/login/LoginActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/login/LoginActivity.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/activity/AboutActivity.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/activity/AboutActivity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/fragment/ChatRoomListFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/fragment/ChatRoomListFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/model/MainTab.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/netease/nim/demo/main/model/MainTab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/processed_res/debug/processDebugResources/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_nim_msg_list_fetch_load_more.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_nim_msg_list_fetch_load_more.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_user_profile_activity.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/layout_user_profile_activity.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/res/merged/debug/values_values.arsc.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/BuildConfig.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/BuildConfig.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/login/LoginActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/login/LoginActivity.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/activity/AboutActivity.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/activity/AboutActivity.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/fragment/ChatRoomListFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/fragment/ChatRoomListFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/model/MainTab.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexBuilder/debug/508/com/netease/nim/demo/main/model/MainTab.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/0/classes3.dex" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/0/classes3.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/netease/nim/demo/login/LoginActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/netease/nim/demo/login/LoginActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/outputs/apk/debug/demo-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/layout/user_profile_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/layout/user_profile_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/values/strings-chatroom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/res/values/strings-chatroom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/nim/demo/main/fragment/ChatRoomListFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/netease/nim/demo/main/fragment/ChatRoomListFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/netease/nim/demo/main/model/MainTab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/netease/nim/demo/main/model/MainTab.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/nim_action_bar_left_click_tv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/nim_action_bar_left_click_tv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/packaged_res/debug/layout/nim_msg_list_fetch_load_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uikit/build/intermediates/packaged_res/debug/layout/nim_msg_list_fetch_load_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/build/intermediates/res/merged/debug/layout/nim_msg_list_fetch_load_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uikit/build/intermediates/res/merged/debug/layout/nim_msg_list_fetch_load_more.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uikit/res/layout/nim_msg_list_fetch_load_more.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uikit/res/layout/nim_msg_list_fetch_load_more.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,5 +377,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="167" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1606829506405" />
+    <state x="608" y="161" key="refactoring.ChangeSignatureDialog" timestamp="1607238492917">
+      <screen x="0" y="0" width="1536" height="810" />
+    </state>
+    <state x="608" y="161" key="refactoring.ChangeSignatureDialog/0.0.1536.810@0.0.1536.810" timestamp="1607238492917" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- chat room -->
-    <string name="chat_room">没有直播</string>
+    <string name="chat_room">个人名片</string>
     <string name="chat_room_message">没有互动</string>
     <string name="chat_room_master">主播</string>
     <string name="chat_room_online_people">在线成员</string>

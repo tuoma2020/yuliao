@@ -10,9 +10,11 @@ import com.netease.nim.demo.main.model.MainTab;
 public class ChatRoomListFragment extends MainTabFragment {
     private com.netease.nim.demo.chatroom.fragment.ChatRoomListFragment fragment;
 
-    public ChatRoomListFragment() {
+    //xiao
+/*    public ChatRoomListFragment() {
         setContainerId(MainTab.CHAT_ROOM.fragmentId);
     }
+*/
 
     @Override
     protected void onInit() {
