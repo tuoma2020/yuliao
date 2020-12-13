@@ -64,7 +64,7 @@ public class FuncViewHolder extends AbsContactViewHolder<FuncViewHolder.FuncItem
             funcName.setText("讨论组");
             image.setImageResource(R.drawable.ic_secretary);
         } else if (item == FuncItem.ADVANCED_TEAM) {
-            funcName.setText("高级群");
+            funcName.setText("群");
             image.setImageResource(R.drawable.ic_advanced_team);
         } else if (item == FuncItem.BLACK_LIST) {
             funcName.setText("黑名单");

@@ -416,7 +416,7 @@
     <item name="widget_video_view_texture" type="id"/>
     <item name="widget_video_view_time" type="id"/>
     <string name="add">添加</string>
-    <string name="advanced_team">高级群</string>
+    <string name="advanced_team">群</string>
     <string name="all_images">全部图片</string>
     <string name="app_name">Library</string>
     <string name="back">返回</string>
@@ -445,7 +445,7 @@
     <string name="contact_selector">联系人选择器</string>
     <string name="copy_has_blank">复 制</string>
     <string name="create">新建</string>
-    <string name="create_advanced_team">创建高级群</string>
+    <string name="create_advanced_team">创建群</string>
     <string name="create_team">创建群</string>
     <string name="create_team_failed">创建失败</string>
     <string name="create_team_success">创建成功</string>

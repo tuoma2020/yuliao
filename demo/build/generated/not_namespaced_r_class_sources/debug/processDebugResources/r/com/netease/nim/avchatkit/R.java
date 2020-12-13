@@ -1693,10 +1693,10 @@ public final class R {
         public static final int uniform = 0x7f0904fe;
         public static final int unlabeled = 0x7f0904ff;
         public static final int up = 0x7f090505;
-        public static final int view_offset_helper = 0x7f090523;
-        public static final int visible = 0x7f090529;
-        public static final int wrap = 0x7f09053d;
-        public static final int wrap_content = 0x7f09053e;
+        public static final int view_offset_helper = 0x7f090522;
+        public static final int visible = 0x7f090528;
+        public static final int wrap = 0x7f09053c;
+        public static final int wrap_content = 0x7f09053d;
     }
     public static final class integer {
         private integer() {}

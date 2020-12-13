@@ -51,7 +51,7 @@
     <string name="now_allow_space">不能含有空格</string>
     <string name="open">开启</string>
     <string name="close">关闭</string>
-    <string name="search_advanced_team">搜索高级群</string>
+    <string name="search_advanced_team">搜索群</string>
     <string name="net_broken">当前网络不可用</string>
     <string name="nim_status_unlogin">未登录</string>
     <string name="nim_status_connecting">连接中...</string>

@@ -21,7 +21,7 @@
         <!-- 申明白板会话的广播接收器，第三方APP集成时，action中的com.netease.nim.demo请替换为自己的包名 -->
         <receiver
             android:name="com.netease.nimlib.receiver.RTSBroadcastReceiver"
-            android:enabled="true"
+            android:enabled="false"
             android:exported="false" >
             <intent-filter>
                 <action android:name="com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION" />

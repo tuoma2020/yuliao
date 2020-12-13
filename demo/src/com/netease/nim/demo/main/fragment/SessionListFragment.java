@@ -243,15 +243,16 @@ public class SessionListFragment extends MainTabFragment {
                 if (attachment instanceof GuessAttachment) {
                     GuessAttachment guess = (GuessAttachment) attachment;
                     return guess.getValue().getDesc();
-                } else if (attachment instanceof RTSAttachment) {
+                }
+                /*else if (attachment instanceof RTSAttachment) {
                     return "[白板]";
-                } else if (attachment instanceof StickerAttachment) {
+                }*/ else if (attachment instanceof StickerAttachment) {
                     return "[贴图]";
                 } else if (attachment instanceof SnapChatAttachment) {
                     return "[阅后即焚]";
-                } else if (attachment instanceof RedPacketAttachment) {
+                } /*else if (attachment instanceof RedPacketAttachment) {
                     return "[红包]";
-                } else if (attachment instanceof RedPacketOpenedAttachment) {
+                }*/ else if (attachment instanceof RedPacketOpenedAttachment) {
                     return ((RedPacketOpenedAttachment) attachment).getDesc(recentContact.getSessionType(), recentContact.getContactId());
                 } else if (attachment instanceof MultiRetweetAttachment){
                     return "[聊天记录]";

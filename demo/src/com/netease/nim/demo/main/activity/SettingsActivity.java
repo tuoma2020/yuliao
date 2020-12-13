@@ -222,22 +222,12 @@ public class SettingsActivity extends UI implements SettingsAdapter.SwitchChange
                                           noDisturbTime);
         items.add(disturbItem);
         items.add(SettingTemplate.addLine());
-        items.add(new SettingTemplate(TAG_MULTIPORT_PUSH, getString(R.string.multiport_push),
-                                      SettingType.TYPE_TOGGLE,
-                                      !NIMClient.getService(SettingsService.class)
-                                                .isMultiportPushOpen()));
+
         items.add(SettingTemplate.makeSeperator());
         items.add(new SettingTemplate(TAG_SPEAKER, getString(R.string.msg_speaker),
                                       SettingType.TYPE_TOGGLE, NimUIKit.isEarPhoneModeEnable()));
         items.add(SettingTemplate.makeSeperator());
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
-            items.add(new SettingTemplate(TAG_NRTC_SETTINGS, getString(R.string.nrtc_settings)));
-            items.add(SettingTemplate.addLine());
-            items.add(new SettingTemplate(TAG_NRTC_NET_DETECT, "音视频通话网络探测"));
-            items.add(SettingTemplate.addLine());
-            items.add(new SettingTemplate(AVCHAT_QUERY, "音视频通话记录"));
-            items.add(SettingTemplate.makeSeperator());
-        }
+
         items.add(new SettingTemplate(TAG_MSG_IGNORE, "过滤通知", SettingType.TYPE_TOGGLE,
                                       UserPreferences.getMsgIgnore()));
         items.add(SettingTemplate.makeSeperator());
@@ -253,14 +243,9 @@ public class SettingsActivity extends UI implements SettingsAdapter.SwitchChange
         items.add(SettingTemplate.makeSeperator());
         items.add(new SettingTemplate(TAG_CUSTOM_NOTIFY, getString(R.string.custom_notification)));
         items.add(SettingTemplate.addLine());
-        items.add(new SettingTemplate(TAG_JS_BRIDGE, getString(R.string.js_bridge_demonstration)));
-        items.add(SettingTemplate.makeSeperator());
-        if (NIMRedPacketClient.isEnable()) {
-            items.add(new SettingTemplate(TAG_JRMFWAllET, "我的钱包"));
-            items.add(SettingTemplate.makeSeperator());
-        }
-        items.add(new SettingTemplate(TAG_PRIVATE_CONFIG,
-                                      getString(R.string.setting_private_config)));
+
+
+
         items.add(SettingTemplate.makeSeperator());
         items.add(new SettingTemplate(TAG_MSG_MIGRATION, getString(R.string.local_db_migration)));
         items.add(SettingTemplate.makeSeperator());

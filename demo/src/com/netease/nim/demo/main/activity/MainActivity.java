@@ -64,7 +64,7 @@ import java.util.ArrayList;
 
 /**
  * 主界面
- * Created by huangjun on 2015/3/25.
+ * Created by
  */
 public class MainActivity extends UI implements ViewPager.OnPageChangeListener,
         ReminderManager.UnreadNumChangedCallback {
@@ -368,9 +368,9 @@ public class MainActivity extends UI implements ViewPager.OnPageChangeListener,
             case R.id.about:
                 startActivity(new Intent(MainActivity.this, SettingsActivity.class));
                 break;
-            case R.id.view_cloud_session:
+/*            case R.id.view_cloud_session:
                 RecentSessionActivity.start(this);
-                break;
+                break; */
             case R.id.create_normal_team:
                 ContactSelectActivity.Option option = TeamHelper.getCreateContactSelectOption(null,
                                                                                               50);
@@ -391,9 +391,9 @@ public class MainActivity extends UI implements ViewPager.OnPageChangeListener,
             case R.id.search_btn:
                 GlobalSearchActivity.start(MainActivity.this);
                 break;
-            case R.id.enter_ysf:
+  /*          case R.id.enter_ysf:
                 Unicorn.openServiceActivity(this, "七鱼测试", null);
-                break;
+                break; */
             default:
                 break;
         }

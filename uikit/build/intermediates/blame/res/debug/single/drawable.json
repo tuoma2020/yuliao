@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_play_btn_select.xml",
-        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_play_btn_select.xml"
-    },
-    {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_message_plus_video_selector.xml",
         "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_message_plus_video_selector.xml"
+    },
+    {
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_play_btn_select.xml",
+        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_play_btn_select.xml"
     },
     {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_placeholder_video_impl.xml",
@@ -24,16 +24,16 @@
         "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_team_create_btn_selector.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_cameras_selector.xml",
-        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_cameras_selector.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_cancel_record_red_bg.xml",
+        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_cancel_record_red_bg.xml"
     },
     {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_sticker_button_background_normal_layer_list.xml",
         "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_sticker_button_background_normal_layer_list.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_cancel_record_red_bg.xml",
-        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_cancel_record_red_bg.xml"
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_cameras_selector.xml",
+        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_cameras_selector.xml"
     },
     {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
@@ -44,12 +44,12 @@
         "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_message_button_bottom_audio_selector.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\drawable\\abc_btn_check_material.xml"
-    },
-    {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_message_item_left_selector.xml",
@@ -84,12 +84,12 @@
         "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_chatroom_robot_link_view_round.xml",
-        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_chatroom_robot_link_view_round.xml"
-    },
-    {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\nim_chatroom_robot_link_view_round.xml",
+        "source": "D:\\yuliao\\yuliao2\\uikit\\res\\drawable\\nim_chatroom_robot_link_view_round.xml"
     },
     {
         "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\drawable\\image_original_selected.xml",

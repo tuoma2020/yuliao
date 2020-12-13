@@ -2133,25 +2133,25 @@ public final class R {
         public static final int videoView = 0x7f09051d;
         public static final int video_icon = 0x7f09051e;
         public static final int viewPager = 0x7f090520;
-        public static final int view_offset_helper = 0x7f090523;
-        public static final int view_pager_image = 0x7f090524;
-        public static final int viewpager = 0x7f090528;
-        public static final int visible = 0x7f090529;
-        public static final int voice_trans_layout = 0x7f09052a;
-        public static final int voice_trans_text = 0x7f09052b;
-        public static final int watch_image_view = 0x7f09052c;
-        public static final int watch_picture_activity_layout = 0x7f09052d;
-        public static final int widget_video_view_cover = 0x7f090533;
-        public static final int widget_video_view_full = 0x7f090534;
-        public static final int widget_video_view_icon = 0x7f090535;
-        public static final int widget_video_view_indicator = 0x7f090536;
-        public static final int widget_video_view_mask = 0x7f090537;
-        public static final int widget_video_view_pause = 0x7f090538;
-        public static final int widget_video_view_texture = 0x7f090539;
-        public static final int widget_video_view_time = 0x7f09053a;
-        public static final int width = 0x7f09053b;
-        public static final int wrap = 0x7f09053d;
-        public static final int wrap_content = 0x7f09053e;
+        public static final int view_offset_helper = 0x7f090522;
+        public static final int view_pager_image = 0x7f090523;
+        public static final int viewpager = 0x7f090527;
+        public static final int visible = 0x7f090528;
+        public static final int voice_trans_layout = 0x7f090529;
+        public static final int voice_trans_text = 0x7f09052a;
+        public static final int watch_image_view = 0x7f09052b;
+        public static final int watch_picture_activity_layout = 0x7f09052c;
+        public static final int widget_video_view_cover = 0x7f090532;
+        public static final int widget_video_view_full = 0x7f090533;
+        public static final int widget_video_view_icon = 0x7f090534;
+        public static final int widget_video_view_indicator = 0x7f090535;
+        public static final int widget_video_view_mask = 0x7f090536;
+        public static final int widget_video_view_pause = 0x7f090537;
+        public static final int widget_video_view_texture = 0x7f090538;
+        public static final int widget_video_view_time = 0x7f090539;
+        public static final int width = 0x7f09053a;
+        public static final int wrap = 0x7f09053c;
+        public static final int wrap_content = 0x7f09053d;
     }
     public static final class integer {
         private integer() {}

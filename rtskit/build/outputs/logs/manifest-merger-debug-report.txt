@@ -22,7 +22,7 @@ INJECTED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:1:1-25:12
 	xmlns:android
 		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:1:11-69
 application
-ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:5:5-24:19
+ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:5:5-24:15
 activity#com.netease.nim.rtskit.activity.RTSActivity
 ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:8:9-13:63
 	android:screenOrientation
@@ -36,19 +36,19 @@ ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:8:9-13:63
 	android:name
 		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:9:13-49
 receiver#com.netease.nimlib.receiver.RTSBroadcastReceiver
-ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:16:9-23:20
+ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:16:5-23:16
 	android:enabled
-		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:18:13-35
+		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:18:9-32
 	android:exported
-		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:19:13-37
+		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:19:9-33
 	android:name
-		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:17:13-76
+		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:17:9-72
 intent-filter#action:name:com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
-ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:20:13-22:29
+ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:20:9-22:25
 action#com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION
-ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:21:17-95
+ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:21:13-91
 	android:name
-		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:21:25-92
+		ADDED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml:21:21-88
 uses-sdk
 INJECTED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\yuliao\yuliao2\rtskit\src\main\AndroidManifest.xml

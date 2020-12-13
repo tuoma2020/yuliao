@@ -96,11 +96,11 @@ public class TeamCreateHelper {
     }
 
     /**
-     * 创建高级群
+     * 创建群
      */
     public static void createAdvancedTeam(final Context context, List<String> memberAccounts) {
 
-        String teamName = "高级群";
+        String teamName = "群";
 
         DialogMaker.showProgressDialog(context, context.getString(com.netease.nim.uikit.R.string.empty), true);
         // 创建群
@@ -169,7 +169,7 @@ public class TeamCreateHelper {
 
         // 演示：向群里插入一条Tip消息，使得该群能立即出现在最近联系人列表（会话列表）中，满足部分开发者需求
         Map<String, Object> content = new HashMap<>(1);
-        content.put("content", "成功创建高级群");
+        content.put("content", "成功创建群");
         IMMessage msg = MessageBuilder.createTipMessage(team.getId(), SessionTypeEnum.Team);
         msg.setRemoteExtension(content);
         CustomMessageConfig config = new CustomMessageConfig();

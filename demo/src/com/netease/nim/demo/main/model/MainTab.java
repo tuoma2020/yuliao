@@ -21,7 +21,6 @@ public enum MainTab {
     public final Class<? extends MainTabFragment> clazz;
 
     public final int resId;
-
     public final int fragmentId;
 
     public final int layoutId;

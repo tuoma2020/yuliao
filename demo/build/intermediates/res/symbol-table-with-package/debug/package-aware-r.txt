@@ -4135,7 +4135,6 @@ id videoView
 id video_icon
 id viewAnim
 id viewPager
-id view_cloud_session
 id view_layout
 id view_offset_helper
 id view_pager_image

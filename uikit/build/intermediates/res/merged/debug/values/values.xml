@@ -2421,7 +2421,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="add">添加</string>
-    <string name="advanced_team">高级群</string>
+    <string name="advanced_team">群</string>
     <string name="all_images">全部图片</string>
     <string name="app_name">Library</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
@@ -2454,7 +2454,7 @@
     <string name="contact_selector">联系人选择器</string>
     <string name="copy_has_blank">复 制</string>
     <string name="create">新建</string>
-    <string name="create_advanced_team">创建高级群</string>
+    <string name="create_advanced_team">创建群</string>
     <string name="create_team">创建群</string>
     <string name="create_team_failed">创建失败</string>
     <string name="create_team_success">创建成功</string>

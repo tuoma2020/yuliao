@@ -518,8 +518,8 @@ public final class R {
         public static final int vertical_scrollview = 0x7f09051b;
         public static final int viewAnim = 0x7f09051f;
         public static final int viewPager = 0x7f090520;
-        public static final int webView = 0x7f09052e;
-        public static final int wheelView = 0x7f090531;
+        public static final int webView = 0x7f09052d;
+        public static final int wheelView = 0x7f090530;
     }
     public static final class layout {
         private layout() {}

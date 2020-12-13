@@ -340,7 +340,7 @@
       </intent-filter>
     </receiver>
     <activity android:name="com.netease.nim.rtskit.activity.RTSActivity" android:launchMode="singleInstance" android:screenOrientation="portrait" android:theme="@style/AppTheme.NoActionBar" android:windowSoftInputMode="stateAlwaysHidden"/>
-    <receiver android:name="com.netease.nimlib.receiver.RTSBroadcastReceiver" android:enabled="true" android:exported="false">
+    <receiver android:name="com.netease.nimlib.receiver.RTSBroadcastReceiver" android:enabled="false" android:exported="false">
       <intent-filter>
         <action android:name="com.netease.nim.demo.ACTION.RECEIVE_RTS_NOTIFICATION"/>
       </intent-filter>

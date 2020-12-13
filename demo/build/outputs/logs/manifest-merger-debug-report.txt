@@ -2447,7 +2447,7 @@ ADDED from [:rtskit] D:\yuliao\yuliao2\rtskit\build\intermediates\merged_manifes
 receiver#com.netease.nimlib.receiver.RTSBroadcastReceiver
 ADDED from [:rtskit] D:\yuliao\yuliao2\rtskit\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:9-29:20
 	android:enabled
-		ADDED from [:rtskit] D:\yuliao\yuliao2\rtskit\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:13-35
+		ADDED from [:rtskit] D:\yuliao\yuliao2\rtskit\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24:13-36
 	android:exported
 		ADDED from [:rtskit] D:\yuliao\yuliao2\rtskit\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:25:13-37
 	android:name
