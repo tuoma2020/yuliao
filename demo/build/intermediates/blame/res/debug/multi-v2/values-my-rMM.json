@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\yuliao\\yuliao2\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
+            "outputFile": "D:\\GitHub\\yuliao-master\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-my-rMM\\values-my-rMM.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\push-4.0.4.301.aar\\86493fd5697d23b7257d364e80d76a71\\res\\values-my-rMM\\values-my-rMM.xml",
+                    "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\push-4.0.4.301.aar\\dcc4c129e79c0467b0a9cd4d9e218eb1\\res\\values-my-rMM\\values-my-rMM.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

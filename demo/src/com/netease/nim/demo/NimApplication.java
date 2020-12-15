@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.Context;
 import android.os.Build;
 import android.os.Process;
+import android.os.StrictMode;
 import android.text.TextUtils;
 import android.webkit.WebView;
 
@@ -72,6 +73,12 @@ public class NimApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+
+        //socked不用放在线程里就能运行
+        if (android.os.Build.VERSION.SDK_INT > 9) {
+            StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
+            StrictMode.setThreadPolicy(policy);
+        }
 
         // 内存泄漏检测
         if (!LeakCanary.isInAnalyzerProcess(this)) {

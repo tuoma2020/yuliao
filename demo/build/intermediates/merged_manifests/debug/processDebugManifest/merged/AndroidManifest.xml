@@ -65,9 +65,9 @@
   <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ"/>
   <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE"/>
   <uses-permission android:name="com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA"/>
-  <application android:name="com.netease.nim.demo.NimApplication" android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:icon="@drawable/ic_logo" android:label="@string/app_name" android:supportsRtl="true" android:theme="@style/AppTheme.NoActionBar" android:usesCleartextTraffic="true">
+  <application android:name="com.netease.nim.demo.NimApplication" android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:icon="@drawable/ic_logo" android:label="@string/app_name" android:supportsRtl="true" android:testOnly="true" android:theme="@style/AppTheme.NoActionBar" android:usesCleartextTraffic="true">
     <meta-data android:name="com.amap.api.v2.apikey" android:value="09fd4efd3e28e9bf1f449ecec7d34bfe"/>
-    <meta-data android:name="com.netease.nim.appKey" android:value="700ac2a7fb98ceef363b80980de3aca2"/>
+    <meta-data android:name="com.netease.nim.appKey" android:value="884b4cf08c3f54cbc6d5af9c43f4680f"/>
     <uses-library android:name="com.google.android.maps" android:required="false"/>
     <meta-data android:name="JRMF_PARTNER_NAME" android:value="yunxin_red_packet"/>
     <meta-data android:name="android.max_aspect" android:value="2.1"/>

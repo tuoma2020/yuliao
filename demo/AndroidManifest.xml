@@ -93,7 +93,7 @@
 
         <meta-data
             android:name="com.netease.nim.appKey"
-			android:value="700ac2a7fb98ceef363b80980de3aca2"/>
+			android:value="884b4cf08c3f54cbc6d5af9c43f4680f"/>
 
         <uses-library
             android:name="com.google.android.maps"

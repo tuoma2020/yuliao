@@ -1,16 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\yuliao\\yuliao2\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "outputFile": "D:\\GitHub\\yuliao-master\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
             "map": [
                 {
-                    "source": "D:\\yuliao\\yuliao2\\demo\\res\\values-en\\strings.xml",
+                    "source": "D:\\GitHub\\yuliao-master\\demo\\res\\values-en\\strings.xml",
                     "from": {
                         "startLines": "2,3,4,5,13,9,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "57,101,195,290,1014,654,373,465,570,741,826,921",
+                        "startOffsets": "55,98,191,285,1001,645,367,458,562,731,815,909",
                         "endColumns": "42,92,93,81,88,85,90,103,82,83,93,91",
-                        "endOffsets": "95,189,284,367,1098,735,459,564,648,820,915,1008"
+                        "endOffsets": "93,186,280,362,1085,726,453,557,640,810,904,996"
                     },
                     "to": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
+                    "source": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\packaged_res\\debug\\values-en\\values-en.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

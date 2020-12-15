@@ -1,9 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.huawei.hms:opendevice:4.0.4.301@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opendevice-4.0.4.301.aar/57de58b6a3aad4cd96af3a1b49bd1964/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opendevice-4.0.4.301.aar/57de58b6a3aad4cd96af3a1b49bd1964/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opendevice-4.0.4.301.aar/57de58b6a3aad4cd96af3a1b49bd1964/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opendevice-4.0.4.301.aar/9c55571127b2f70bcc84d4c7b4e27606/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/opendevice-4.0.4.301.aar/9c55571127b2f70bcc84d4c7b4e27606/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

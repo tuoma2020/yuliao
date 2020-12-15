@@ -50,10 +50,21 @@ import com.netease.nimlib.sdk.auth.AuthService;
 import com.netease.nimlib.sdk.auth.ClientType;
 import com.netease.nimlib.sdk.auth.LoginInfo;
 
+import com.netease.nim.demo.login.LoginAppSever;
+import org.json.JSONObject;
+
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
+import java.io.IOException;
+import java.net.Socket;
+import java.util.HashMap;
+import java.util.Map;
+
 /**
  * 登录/注册界面
  * <p/>
- * Created by huangjun on 2015/2/1.
+ * /2/1.
  */
 public class LoginActivity extends UI implements OnKeyListener {
 
@@ -138,7 +149,7 @@ public class LoginActivity extends UI implements OnKeyListener {
 
     private void requestBasicPermission() {
         MPermission.with(LoginActivity.this).setRequestCode(BASIC_PERMISSION_REQUEST_CODE)
-                   .permissions(BASIC_PERMISSIONS).request();
+                .permissions(BASIC_PERMISSIONS).request();
     }
 
     @Override
@@ -190,10 +201,10 @@ public class LoginActivity extends UI implements OnKeyListener {
                 break;
         }
         EasyAlertDialogHelper.showOneButtonDiolag(LoginActivity.this,
-                                                  getString(R.string.kickout_notify),
-                                                  String.format(getString(R.string.kickout_content),
-                                                                client + customType), getString(R.string.ok),
-                                                  true, null);
+                getString(R.string.kickout_notify),
+                String.format(getString(R.string.kickout_content),
+                        client + customType), getString(R.string.ok),
+                true, null);
 
     }
 
@@ -270,12 +281,13 @@ public class LoginActivity extends UI implements OnKeyListener {
             }
             // 登录模式  ，更新右上角按钮状态
             boolean isEnable = loginAccountEdit.getText().length() > 0 &&
-                               loginPasswordEdit.getText().length() > 0;
+                    loginPasswordEdit.getText().length() > 0;
             updateRightTopBtn(rightTopBtn, isEnable);
         }
     };
 
     private void updateRightTopBtn(TextView rightTopBtn, boolean isEnable) {
+        rightTopBtn.setText(R.string.done);
         rightTopBtn.setText("完成");
         rightTopBtn.setBackgroundResource(R.drawable.g_white_btn_selector);
         rightTopBtn.setEnabled(isEnable);
@@ -309,42 +321,51 @@ public class LoginActivity extends UI implements OnKeyListener {
             e.printStackTrace();
         }
 
-        // 登录
+        // AppSever登录
+        int LoginAppSever = com.netease.nim.demo.login.LoginAppSever.Login(account,token);
+        if (LoginAppSever == 0){
+            ToastHelper.showToast(LoginActivity.this,
+                    "登录失败: 应用服务器核实信息失败！" );
+            return;
+        }
+
+
+        //NimSever登录
         loginRequest = NimUIKit.login(new LoginInfo(account, token, null, subtype),
-                                      new RequestCallback<LoginInfo>() {
+                new RequestCallback<LoginInfo>() {
 
-                                          @Override
-                                          public void onSuccess(LoginInfo param) {
-                                              LogUtil.i(TAG, "login success");
-                                              onLoginDone();
-                                              DemoCache.setAccount(account);
-                                              saveLoginInfo(account, token);
-                                              // 初始化消息提醒配置
-                                              initNotificationConfig();
-                                              // 进入主界面
-                                              MainActivity.start(LoginActivity.this, null);
-                                              finish();
-                                          }
+                    @Override
+                    public void onSuccess(LoginInfo param) {
+                        LogUtil.i(TAG, "login success");
+                        onLoginDone();
+                        DemoCache.setAccount(account);
+                        saveLoginInfo(account, token);
+                        // 初始化消息提醒配置
+                        initNotificationConfig();
+                        // 进入主界面
+                        MainActivity.start(LoginActivity.this, null);
+                        finish();
+                    }
 
-                                          @Override
-                                          public void onFailed(int code) {
-                                              onLoginDone();
-                                              if (code == 302 || code == 404) {
-                                                  ToastHelper.showToast(LoginActivity.this,
-                                                                        R.string.login_failed);
-                                              } else {
-                                                  ToastHelper.showToast(LoginActivity.this,
-                                                                        "登录失败: " + code);
-                                              }
-                                          }
+                    @Override
+                    public void onFailed(int code) {
+                        onLoginDone();
+                        if (code == 302 || code == 404) {
+                            ToastHelper.showToast(LoginActivity.this,
+                                    R.string.login_failed);
+                        } else {
+                            ToastHelper.showToast(LoginActivity.this,
+                                    "登录失败: " + code);
+                        }
+                    }
 
-                                          @Override
-                                          public void onException(Throwable exception) {
-                                              ToastHelper.showToast(LoginActivity.this,
-                                                                    R.string.login_exception);
-                                              onLoginDone();
-                                          }
-                                      });
+                    @Override
+                    public void onException(Throwable exception) {
+                        ToastHelper.showToast(LoginActivity.this,
+                                R.string.login_exception);
+                        onLoginDone();
+                    }
+                });
     }
 
     private void initNotificationConfig() {
@@ -375,8 +396,8 @@ public class LoginActivity extends UI implements OnKeyListener {
     private String tokenFromPassword(String password) {
         String appKey = readAppKey(this);
         boolean isDemo = "45c6af3c98409b18a84451215d0bdd6e".equals(appKey) ||
-                         "fe416640c8e8a72734219e1847ad2547".equals(appKey) ||
-                         "a24e6c8a956a128bd50bdffe69b405ff".equals(appKey);
+                "fe416640c8e8a72734219e1847ad2547".equals(appKey) ||
+                "a24e6c8a956a128bd50bdffe69b405ff".equals(appKey);
         return isDemo ? MD5.getStringMD5(password) : password;
     }
 
@@ -413,34 +434,36 @@ public class LoginActivity extends UI implements OnKeyListener {
         final String nickName = registerNickNameEdit.getText().toString();
         final String password = registerPasswordEdit.getText().toString();
         ContactHttpClient.getInstance().register(account, nickName, password,
-                                                 new ContactHttpClient.ContactHttpCallback<Void>() {
+                new ContactHttpClient.ContactHttpCallback<Void>() {
 
-                                                     @Override
-                                                     public void onSuccess(Void aVoid) {
-                                                         ToastHelper.showToast(LoginActivity.this,
-                                                                               R.string.register_success);
-                                                         switchMode();  // 切换回登录
-                                                         loginAccountEdit.setText(account);
-                                                         loginPasswordEdit.setText(password);
-                                                         registerAccountEdit.setText("");
-                                                         registerNickNameEdit.setText("");
-                                                         registerPasswordEdit.setText("");
-                                                         DialogMaker.dismissProgressDialog();
-                                                     }
+                    @Override
+                    public void onSuccess(Void aVoid) {
+                        ToastHelper.showToast(LoginActivity.this,
+                                R.string.register_success);
+                        switchMode();  // 切换回登录
+                        loginAccountEdit.setText(account);
+                        loginPasswordEdit.setText(password);
+                        registerAccountEdit.setText("");
+                        registerNickNameEdit.setText("");
+                        registerPasswordEdit.setText("");
+                        DialogMaker.dismissProgressDialog();
+                    }
 
-                                                     @Override
-                                                     public void onFailed(int code,
-                                                                          String errorMsg) {
-                                                         ToastHelper.showToast(LoginActivity.this,
-                                                                               getString(
-                                                                                       R.string.register_failed,
-                                                                                       String.valueOf(
-                                                                                               code),
-                                                                                       errorMsg));
-                                                         DialogMaker.dismissProgressDialog();
-                                                     }
-                                                 });
+                    @Override
+                    public void onFailed(int code,
+                                         String errorMsg) {
+                        ToastHelper.showToast(LoginActivity.this,
+                                getString(
+                                        R.string.register_failed,
+                                        String.valueOf(
+                                                code),
+                                        errorMsg));
+                        DialogMaker.dismissProgressDialog();
+                    }
+                });
     }
+
+
 
     private boolean checkRegisterContentValid() {
         if (!registerMode || !registerPanelInited) {
@@ -495,7 +518,7 @@ public class LoginActivity extends UI implements OnKeyListener {
             rightTopBtn.setEnabled(true);
         } else {
             boolean isEnable = loginAccountEdit.getText().length() > 0 &&
-                               loginPasswordEdit.getText().length() > 0;
+                    loginPasswordEdit.getText().length() > 0;
             rightTopBtn.setEnabled(isEnable);
         }
     }

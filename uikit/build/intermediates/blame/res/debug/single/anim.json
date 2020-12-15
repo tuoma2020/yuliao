@@ -1,66 +1,66 @@
 [
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_popup_exit.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_tooltip_exit.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\eabcab084f552dc3091c13397928fafe\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\298ef3722f01f32626aca206eae4b9f2\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\eabcab084f552dc3091c13397928fafe\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_tooltip_enter.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\eabcab084f552dc3091c13397928fafe\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\298ef3722f01f32626aca206eae4b9f2\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\298ef3722f01f32626aca206eae4b9f2\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\eabcab084f552dc3091c13397928fafe\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\material-1.0.0.aar\\298ef3722f01f32626aca206eae4b9f2\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_exit.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_tooltip_exit.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\yuliao\\yuliao2\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Xiao\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\68512a28669a21bd29b614cd28846db8\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\GitHub\\yuliao-master\\uikit\\build\\intermediates\\res\\merged\\debug\\anim\\abc_tooltip_enter.xml",
+        "source": "C:\\Users\\Ken\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\1855f0dcc36ef524c1bdddbe7264e52c\\res\\anim\\abc_tooltip_enter.xml"
     }
 ]
